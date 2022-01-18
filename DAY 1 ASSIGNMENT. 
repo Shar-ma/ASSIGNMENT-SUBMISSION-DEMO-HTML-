@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+<head>
+   <title> PAGE :1 </title>
+</head>
+<body>
+<p> HTML:</p>
+  HTML- stands for hyper text markup language. 
+This languauge is basically used to built a web page or web site.
+ 
+<p>Now what is the difference between web site and web page. 
+  </p>
+<p>Web page - consist of a single page or we can say it is just the 
+out put of the code we have written. 
+  </p>
+<p>Web site- consist of collection of web pages i.e. there are many 
+ web pages in a single web site. 
+ </p>
+<p>
+
+HTML- is used to mark the contents that are being used in the formation
+of a web site or web page. 
+Now there is a cycle:
+called as REQUEST RESPONSE CYCLE:::
+</p>
+  LIKE:
+  
+    CLIENT--->REQUEST--->SERVER-->RESPONSE--->CLIENT.
+<p>NOW request here is:</p>
+<p> the things that user wants to enter.
+<p>for e.g user want to create a  web site so the user sends a url to the
+server. </p>
+<p>Then server gives response to client by opening up that particular web site. 
+</p>
+NOW there are some tags and elements that are used in html. 
+tags: <tag>-- opening tag
+</tag>-- closing tag. 
+Elements:<tag>content</tag>
+  
+</body>
+</html>
